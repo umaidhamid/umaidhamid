@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi  I'm Umaid Hamid
 
-<!--
-**umaidhamid/umaidhamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** with hands-on experience in building **production-ready web applications** using the **MERN stack**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Frontend:** React (Vite), Tailwind CSS  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **Auth:** JWT  
+- **Tools:** Git, GitHub, REST APIs  
+
+---
+
+### 🎯 What I focus on
+- Clean architecture  
+- Industry-standard folder structure  
+- Middleware-based validation  
+- Scalable backend design  
+- Real business logic (not demo apps)
+
+---
+
+### 📌 Goals
+- Build strong backend systems  
+- Grow as a professional full-stack engineer  
+- Work on real-world, impact-driven products  
+
+---
+
+⭐ Always learning, always building.
