@@ -4,7 +4,7 @@ I'm a **Full-Stack Developer** with hands-on experience in building **production
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 - **Frontend:** React (Vite), Tailwind CSS  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB  
@@ -13,7 +13,7 @@ I'm a **Full-Stack Developer** with hands-on experience in building **production
 
 ---
 
-### 🎯 What I focus on
+###  What I focus on
 - Clean architecture  
 - Industry-standard folder structure  
 - Middleware-based validation  
@@ -22,11 +22,11 @@ I'm a **Full-Stack Developer** with hands-on experience in building **production
 
 ---
 
-### 📌 Goals
+###  Goals
 - Build strong backend systems  
 - Grow as a professional full-stack engineer  
 - Work on real-world, impact-driven products  
 
 ---
 
-⭐ Always learning, always building.
+ Always learning, always building.
