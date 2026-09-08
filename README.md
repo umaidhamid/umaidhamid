@@ -5,7 +5,7 @@ I'm a **Full-Stack Developer** with hands-on experience in building **production
 ---
 
 ###  Tech Stack
-- **Frontend:** React (Vite), Tailwind CSS  
+- **Frontend:** React (Vite), Tailwind CSS,Nextjs  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB  
 - **Auth:** JWT  
